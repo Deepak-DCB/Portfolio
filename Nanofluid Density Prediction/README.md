@@ -40,7 +40,7 @@ Both projects use the same experimental dataset of 436 hybrid nanofluid samples.
 ## Getting Started
 
 Open either notebook (`NanoparticleDensityPredRegression.ipynb` or `NanoparticleDensityPredClustering.ipynb`) in Jupyter, Colab, or VS Code.  
-Data file: If required, download the [Kaggle nanofluid dataset](https://www.kaggle.com/datasets/...) and place it in this folder.
+Data file: If required, download the [Kaggle nanofluid dataset](https://www.kaggle.com/datasets/ai4a-lab/nanofluid-density-prediction) and place it in this folder.
 
 ---
 
