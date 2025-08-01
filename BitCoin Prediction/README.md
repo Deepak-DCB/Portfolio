@@ -7,34 +7,38 @@
 
 ## Overview
 
-This project explores machine learning approaches (Logistic Regression, Decision Trees, k-NN) for classifying daily Bitcoin price movements based on historical time-series data. Feature engineering includes date-based and lag/rolling features to better capture temporal dependencies in financial data.
+This project classifies daily Bitcoin price movement using historical price data and engineered temporal features, comparing multiple ML models.
 
-- **Notebook:** `BitcoinPriceClassification.ipynb`
-- **Report:** `BinkamDeepakBitcoinPriceClassification.pdf`
+---
+
+## Contents
+
+- `BTC_Price_Predictive_Models.ipynb` – Notebook for data preparation, feature engineering, and modeling
+- `BinkamDeepakBitcoinPriceClassification.pdf` – Formal report *(update filename if different)*
 
 ---
 
 ## Highlights
 
-- EDA of Bitcoin price data from Kaggle
-- Time-based feature engineering (DayOfWeek, Month, lag, rolling mean)
-- Logistic Regression accuracy improved from 54% to 66% with engineered features
-- Full code and explanations for reproducibility
+- EDA, date-based and rolling/lag feature engineering
+- Models: Logistic Regression, Decision Tree, k-NN
+- Improved logistic regression accuracy from 54% to 66% after feature engineering
 
 ---
 
 ## Getting Started
 
-Open the notebook in Jupyter or Colab. Data files can be obtained from [Kaggle Bitcoin Dataset](https://www.kaggle.com/datasets/...) (insert actual link).
+Open `BTC_Price_Predictive_Models.ipynb` in Jupyter or Colab.  
+Dataset: [Kaggle Bitcoin Dataset](https://www.kaggle.com/datasets/...) (insert actual link).
 
 ---
 
 ## Author Contribution
 
-All work prepared individually by Deepak Binkam.
+All analysis and reporting by Deepak Binkam.
 
 ---
 
 ## License
 
-Educational use only.
+For educational purposes only.
