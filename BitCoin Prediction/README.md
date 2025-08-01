@@ -29,7 +29,7 @@ This project classifies daily Bitcoin price movement using historical price data
 ## Getting Started
 
 Open `BTC_Price_Predictive_Models.ipynb` in Jupyter or Colab.  
-Dataset: [Kaggle Bitcoin Dataset]([https://www.kaggle.com/datasets/...](https://www.kaggle.com/datasets/shahidk3075/bitcoin-price-prediction-dataset?resource=download)) (insert actual link).
+Dataset: [Kaggle Bitcoin Dataset]([https://www.kaggle.com/datasets/...](https://www.kaggle.com/datasets/shahidk3075/bitcoin-price-prediction-dataset?resource=download))
 
 ---
 
