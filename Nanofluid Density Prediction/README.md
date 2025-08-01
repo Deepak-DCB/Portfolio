@@ -21,7 +21,6 @@ Both projects use the same experimental dataset of 436 hybrid nanofluid samples.
 - `NanoparticleDensityPredClustering.ipynb` – Clustering analysis notebook
 - `HybridNanofluidDensityRegression.pdf` – Formal report (regression) *(update with actual filename if different)*
 - `HybridNanofluidDensityClustering.pdf` – Formal report (clustering) *(update with actual filename if different)*
-- (Add any data files or external links as needed)
 
 ---
 
