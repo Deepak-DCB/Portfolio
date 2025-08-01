@@ -13,8 +13,8 @@ Machine learning project predicting severity and cost of U.S. storms using NOAA 
 
 ## Contents
 
-- `StormPrediction.ipynb` – Complete data pipeline and modeling notebook
-- `Data_Mining_FinalReport.pdf` – Formal report *(update filename if different)*
+- `WeatherPrediction.ipynb` – Complete data pipeline and modeling notebook
+- `StormPrediction_FinalReport.pdf` – Formal report *(update filename if different)*
 
 ---
 
