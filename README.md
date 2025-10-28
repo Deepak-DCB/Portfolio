@@ -1,7 +1,6 @@
 # Deepak Binkam — Project Portfolio
 
-This repository is a collection of projects by topic.
-Each folder may contain code, analysis, and documentation for a specific problem or domain.
+This repo is a collection of projects by topic.
 
 ## Projects
 
