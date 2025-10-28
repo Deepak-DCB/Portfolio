@@ -3,9 +3,6 @@
 **Author:** Deepak Binkam  
 **Course:** Data Mining (COSC 757), Towson University
 
----
-
-## Overview
 
 This folder contains two complementary projects focused on hybrid nanofluid density:
 - **Regression Analysis** – Predicts nanofluid density using regression models.
@@ -44,12 +41,7 @@ Data file: If required, download the [Kaggle nanofluid dataset](https://www.kagg
 
 ---
 
-## Author Contribution
 
 All code, analysis, and reports by Deepak Binkam.
 
----
 
-## License
-
-For educational use only. Please contact for collaboration or commercial inquiries.
