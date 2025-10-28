@@ -3,9 +3,6 @@
 **Author:** Deepak Binkam  
 **Course:** Data Mining (COSC 757), Towson University
 
----
-
-## Overview
 
 This project classifies daily Bitcoin price movement using historical price data and engineered temporal features, comparing multiple ML models.
 
