@@ -3,10 +3,6 @@
 **Author:** Deepak Binkam  
 **Course:** Data Mining (COSC 757), Towson University
 
----
-
-## Overview
-
 Machine learning project predicting severity and cost of U.S. storms using NOAA data, with extensive feature engineering and model validation.
 
 ---
@@ -34,12 +30,6 @@ Raw data: [NOAA Storm Events Database](https://www.ncdc.noaa.gov/stormevents/).
 
 ---
 
-## Author Contribution
-
 Data pre-processing, feature engineering, XGBoost modeling, visualization, and reporting by Deepak Binkam.
 
----
 
-## License
-
-Educational/non-commercial use only.
