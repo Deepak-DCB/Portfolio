@@ -33,12 +33,5 @@ Dataset: [Kaggle Bitcoin Dataset](https://www.kaggle.com/datasets/shahidk3075/bi
 
 ---
 
-## Author Contribution
-
 All analysis and reporting by Deepak Binkam.
 
----
-
-## License
-
-For educational purposes only.
